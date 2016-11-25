@@ -32,4 +32,4 @@
     * [Gradle相关](Gradle相关.md)
         * [混淆(引文)：写给Android开发者的混淆使用手册](写给Android开发者的混淆使用手册.md)
     * [效率开发](效率开发.md)
-        * [使用第三方Maven](使用第三方Maven.md)
+        * [加速依赖：使用第三方Maven](使用第三方Maven.md)
