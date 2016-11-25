@@ -11,5 +11,6 @@
         * [进阶-分类与流程](进阶-分类与流程.md)
         * [进阶 - Canvas之绘制图形](进阶 - Canvas之绘制图形.md)
         * [进阶-Canvas之画布操作](进阶-Canvas之画布操作.md)
+        * [进阶-Canvas之图片文字](进阶-Canvas之图片文字.md)
     * [Gradle相关](Gradle相关.md)
         * [混淆(引文)：写给Android开发者的混淆使用手册](写给Android开发者的混淆使用手册.md)
