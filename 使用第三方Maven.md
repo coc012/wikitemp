@@ -1,4 +1,7 @@
 
+[原文地址](http://blog.csdn.net/biezhihua/article/details/49668605)
+
+>原文未做修改，请使用http://maven.aliyun.com/nexus/content/groups/public/代替文中的地址，oschina已停止维护
 
 近来迁移了一些项目到`[Android](http://lib.csdn.net/base/android "Android知识库")<span class="Apple-converted-space"> </span>Studio`，采用`Gradle`构建确实比原来的Ant方便许多。但是编译时下载依赖的网速又着实令人蛋疼不已。
 
