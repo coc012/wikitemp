@@ -1,4 +1,4 @@
-有时候总免不了需要添加一些依赖，但下载速度十分龟速。
+
 
 近来迁移了一些项目到`[Android](http://lib.csdn.net/base/android "Android知识库")<span class="Apple-converted-space"> </span>Studio`，采用`Gradle`构建确实比原来的Ant方便许多。但是编译时下载依赖的网速又着实令人蛋疼不已。
 
