@@ -20,5 +20,6 @@
         * [进阶 - Matrix详解](进阶 - Matrix详解.md)
         * [进阶 - Matrix Camera](进阶 - Matrix Camera.md)
         * [进阶 - 事件分发机制原理](进阶 - 事件分发机制原理.md)
+        * [进阶 - 事件分发机制详解](进阶 - 事件分发机制详解.md)
     * [Gradle相关](Gradle相关.md)
         * [混淆(引文)：写给Android开发者的混淆使用手册](写给Android开发者的混淆使用手册.md)
