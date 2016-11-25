@@ -14,5 +14,6 @@
         * [进阶-Canvas之图片文字](进阶-Canvas之图片文字.md)
         * [进阶 - Path之基本操作](进阶 - Path之基本操作.md)
         * [进阶 - Path之贝塞尔曲线](进阶 - Path之贝塞尔曲线.md)
+        * [进阶 - Path完结篇](进阶 - Path完结篇.md)
     * [Gradle相关](Gradle相关.md)
         * [混淆(引文)：写给Android开发者的混淆使用手册](写给Android开发者的混淆使用手册.md)
