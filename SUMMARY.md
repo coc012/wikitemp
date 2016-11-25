@@ -4,5 +4,5 @@
 * [Motion](自定义View/Motion.md)
 * [Android开发](Android开发.md)
     * [自定义View](31.md)
-        * [写给Android开发者的混淆使用手册](写给Android开发者的混淆使用手册.md)
     * [Gradle相关](Gradle相关.md)
+        * [写给Android开发者的混淆使用手册](写给Android开发者的混淆使用手册.md)
