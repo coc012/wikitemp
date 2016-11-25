@@ -4,7 +4,7 @@
 * [Motion](自定义View/Motion.md)
 * [Android开发](Android开发.md)
     * [自定义View](31.md)
-        * [安卓自定义View教程目录](安卓自定义View教程目录.md)
+        * [教程目录](安卓自定义View教程目录.md)
         * [基础-坐标系](基础-坐标系.md)
     * [Gradle相关](Gradle相关.md)
         * [混淆(引文)：写给Android开发者的混淆使用手册](写给Android开发者的混淆使用手册.md)
