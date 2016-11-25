@@ -5,7 +5,7 @@
     * [程序员不可不知的版权协议](程序员不可不知的版权协议.md)
     * [用JitPack发布开源库时附加文档和源码](用JitPack发布开源库时附加文档和源码.md)
     * [使用JitPack发布Android开源库](使用JitPack发布Android开源库.md)
-    * [22](22.md)
+    * [在AndroidStudio中使用PlantUML(for Win)](在AndroidStudio中使用PlantUML(for Win).md)
 * [Android开发](Android开发.md)
     * [自定义View](31.md)
         * [教程目录](安卓自定义View教程目录.md)
