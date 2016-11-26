@@ -42,3 +42,4 @@
         * [搭建一个新的Android项目，你会怎么做？](搭建一个新的Android项目，你会怎么做？.md)
         * [Android APP架构心得](Android APP架构心得.md)
     * [前沿](前沿.md)
+    * [接入第三方SDK](接入第三方SDK.md)
