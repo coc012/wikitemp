@@ -43,3 +43,4 @@
         * [Android APP架构心得](Android APP架构心得.md)
     * [前沿](前沿.md)
     * [接入第三方SDK](接入第三方SDK.md)
+        * [微信支付](微信支付.md)
