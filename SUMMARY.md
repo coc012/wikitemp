@@ -49,3 +49,4 @@
     * [Android_性能](Android_性能.md)
         * [浅析Android的窗口](浅析Android的窗口.md)
         * [一个内存泄漏引发的血案](一个内存泄漏引发的血案.md)
+        * [Android中导致内存泄漏的竟然是它Dialog](Android中导致内存泄漏的竟然是它Dialog.md)
