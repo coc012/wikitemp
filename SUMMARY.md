@@ -45,6 +45,7 @@
         * [微信支付](微信支付.md)
     * [WebView与H5](WebView与H5.md)
     * [基础理论](基础理论.md)
+        * [EditText](EditText.md)
 * [引用库](引用库.md)
     * [Android_性能](Android_性能.md)
         * [浅析Android的窗口](浅析Android的窗口.md)
