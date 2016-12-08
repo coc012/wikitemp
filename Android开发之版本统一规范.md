@@ -1,7 +1,8 @@
 
 Android开发存在着众多版本的不同，比如compileSdkVersion、minSdkVersion、targetSdkVersion以及项目中依赖第三方库的版本，不同的module及不同的开发人员都有不同的版本，所以需要一个统一版本规范的文件，现在我就来介绍一种方式：配置config.gradle文件。
 在项目根目录，也就是跟app同一目录下的地方新建config.gradle文件，如下图所示
-[图](http://blankj.com/wp-content/uploads/2016/09/build_config.png)
+![图四](http://blankj.com/wp-content/uploads/2016/09/build_config.png)
+
 config.gradle
 
 如果了解groovy的话，那么阅读以下代码肯定是小菜一碟了，不了解的话，看一下之后其实也很好懂。
