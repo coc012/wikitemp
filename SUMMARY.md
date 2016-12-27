@@ -56,3 +56,4 @@
         * [Android中导致内存泄漏的竟然是它Dialog](Android中导致内存泄漏的竟然是它Dialog.md)
         * [Android WebView Memory Leak WebView内存泄漏](Android WebView Memory Leak WebView内存泄漏.md)
 * [项目规整](项目规整.md)
+    * [1.初始化工具](1.初始化工具.md)
