@@ -85,3 +85,4 @@
         * [Handler与Looper](Handler与.md)
         * [多线程相关](多线程相关.md)
         * [View绘制机制](View绘制机制.md)
+        * [事件分发机制](事件分发机制.md)
