@@ -70,6 +70,7 @@
         * [ImageView相关](ImageView相关.md)
         * [Video相关](Video相关.md)
         * [Fragment](Fragment.md)
+            * [DialogFragment](DialogFragment.md)
     * [2数据相关](2数据相关.md)
         * [数据库相关](数据库相关.md)
             * [sharedpreferences](sharedpreferences.md)
