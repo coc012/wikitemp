@@ -1,7 +1,6 @@
 
 [TOC]
 # Android技术前沿：DBFlow的实践
-2016.07.14 19:29* 字数 954 阅读 1540评论 6喜欢 14
 
 > DBFlow是一个基于AnnotationProcessing(注解处理器)的强大、健壮同时又简单的ORM框架。相比于使用模板代码生成的GreenDao，DBFlow使用更加方便；相比使用反射的ActiveAndroid，在性能有着绝对的优势。
 > 此框架设计为了速度、性能和可用性。消除了大量死板的数据库代码，取而代之的是强大而又简洁的API接口。
