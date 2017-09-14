@@ -55,6 +55,7 @@
         * [EditText](EditText.md)
     * [优化尝试](优化尝试.md)
         * [apk瘦身参考](apk瘦身参考.md)
+        * [Kotlin](Kotlin.md)
 * [引用库](引用库.md)
     * [Android_性能](Android_性能.md)
         * [浅析Android的窗口](浅析Android的窗口.md)
