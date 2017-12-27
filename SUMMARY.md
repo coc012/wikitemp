@@ -125,7 +125,7 @@
         * [2-Android-04三方解析](2-Android/2-Android-9-辨析/2-Android-04三方解析.md)
         * [LRU算法](2-Android/2-Android-9-辨析/LRU算法.md)
         * [什么是Bitmap](2-Android/2-Android-9-辨析/什么是Bitmap.md)
-        * [图片压缩方式](2-Android/2-Android-9-辨析/图片压缩方式.md)
+        * [常见图片压缩方式](2-Android/2-Android-9-辨析/常见图片压缩方式.md)
 * [3-Kotlin](3-Kotlin.md)
     * [Kotlin使用笔记2-你用好Kotlin了吗](3-Kotlin/Kotlin使用笔记2-你用好Kotlin了吗.md)
     * [Kotlin使用笔记2-草稿](3-Kotlin/Kotlin使用笔记2-草稿.md)
