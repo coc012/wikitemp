@@ -122,7 +122,6 @@
         * [HandlerThread 源码分析](2-Android/2-Android-5-源码/HandlerThread 源码分析.md)
         * [IntentService的使用和源码分析](2-Android/2-Android-5-源码/IntentService的使用和源码分析.md)
     * [2-Android-9-辨析](2-Android/2-Android-9-辨析.md)
-        * [2-Android-04三方解析](2-Android/2-Android-9-辨析/2-Android-04三方解析.md)
         * [LRU算法](2-Android/2-Android-9-辨析/LRU算法.md)
         * [什么是Bitmap](2-Android/2-Android-9-辨析/什么是Bitmap.md)
         * [常见图片压缩方式](2-Android/2-Android-9-辨析/常见图片压缩方式.md)
