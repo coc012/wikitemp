@@ -1,4 +1,4 @@
->文档当前状态：**草稿**
+>文档当前状态：**beta0.8**
 >大部分内容整理自：[Exploring Kotlin’s hidden costs](https://medium.com/@BladeCoder/exploring-kotlins-hidden-costs-part-1-fbb9935d9b62)
 ，更多见文末的 [参考引文](#参考引文)。
 
