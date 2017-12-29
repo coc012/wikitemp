@@ -1,4 +1,10 @@
->文档当前状态：**beta0.8**
+文档当前状态：**beta0.2**
+* [x] 选题收集：2017/10/15
+* [x] 初稿整理：
+* [ ] 补充校对：
+* [ ] 入库存档：
+---
+
 >大部分内容整理自：[Exploring Kotlin’s hidden costs](https://medium.com/@BladeCoder/exploring-kotlins-hidden-costs-part-1-fbb9935d9b62)
 ，更多见文末的 [参考引文](#参考引文)。
 
