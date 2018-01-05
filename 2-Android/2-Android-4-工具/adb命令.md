@@ -50,3 +50,4 @@ adb shell cat/sys/class/power_supply/battery/current_now
 ---
 #### 参考文档
 * [Awesome Adb——一份超全超详细的 ADB 用法大全](https://juejin.im/entry/57c00fe4c4c971006179838a)
+* [Awesome Adb存档ps://github.com/mzlogin/awesome-adb)
