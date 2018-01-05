@@ -121,6 +121,7 @@
             * [混淆](2-Android/2-Android-3-优化/各种优化/混淆.md)
     * [2-Android-4-工具](2-Android/2-Android-4-工具.md)
         * [adb命令](2-Android/2-Android-4-工具/adb命令.md)
+        * [一键分析Android的BugReport](2-Android/2-Android-4-工具/一键分析Android的BugReport.md)
         * [版本控制](2-Android/2-Android-4-工具/版本控制.md)
             * [git](2-Android/2-Android-4-工具/版本控制/git.md)
                 * [git章节简述](2-Android/2-Android-4-工具/版本控制/git/git章节简述.md)
