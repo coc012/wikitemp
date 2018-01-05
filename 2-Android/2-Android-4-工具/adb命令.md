@@ -5,6 +5,16 @@
 * [ ] 入库存档：
 ---
 
+#### 基础
+* **查看已连接的设备**
+使用adb devices来查看设备列表，如果有多个模拟器或手机正在运行，当使用adb 命令的时候就需要指定目标设备，这可以通过使用-s 选项参数实现，serialNumber 是adb devices 查询得到的，用法是：
+~~~
+//查看连接上adb的设备列表
+adb devices
+
+//当连接上多个设备时，使用如下命令 指定设备
+adb -s <serialNumber > <command >
+~~~
 
 #### **adb shell相关**
 
