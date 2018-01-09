@@ -90,6 +90,8 @@
             * [7-安卓自定义View进阶-Path完结篇伪](2-Android/2-Android-1-基础/自定义View进阶/7-安卓自定义View进阶-Path完结篇伪.md)
             * [8-安卓自定义View进阶-Path玩出花样PathMeasure](2-Android/2-Android-1-基础/自定义View进阶/8-安卓自定义View进阶-Path玩出花样PathMeasure.md)
             * [9-安卓自定义View进阶-Matrix原理](2-Android/2-Android-1-基础/自定义View进阶/9-安卓自定义View进阶-Matrix原理.md)
+        * [通用类介绍](2-Android/2-Android-1-基础/通用类介绍.md)
+            * [Application](2-Android/2-Android-1-基础/通用类介绍/Application.md)
     * [2-Android-2-使用](2-Android/2-Android-2-使用.md)
         * [2-Android-02控件](2-Android/2-Android-2-使用/2-Android-02控件.md)
             * [ViewGroup](2-Android/2-Android-2-使用/2-Android-02控件/ViewGroup.md)
