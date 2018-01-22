@@ -574,6 +574,11 @@ dependencies {
 
 在工程下的 External Libraries 可以看到相应的类库，这些类库默认是放在 gradle 缓存目录的 （在 linux 环境中，一般是在 ~/.gradle/caches 下面 ）。 可以右键点击 Reavel in Finder 打开所在文件的目录，拷贝其中类库即可。
 
+### **常见仓库地址**
+* jitpack：https://jitpack.io
+* mavenCentral：http://repo1.maven.org/maven2
+* jcenter：http://jcenter.bintray.com
+* google：http://nexusrepo/repository/Google
 
 
 ### **参考资料**
