@@ -579,7 +579,7 @@ dependencies {
 * mavenCentral：http://repo1.maven.org/maven2
 * jcenter：http://jcenter.bintray.com
 * google：http://nexusrepo/repository/Google
-* google：https://dl.google.com/dl/android/maven2/
+* google： https://maven.google.com
 
 
 ### **参考资料**
