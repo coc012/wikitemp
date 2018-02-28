@@ -171,7 +171,6 @@
     * [Gradle](6-Other/Gradle.md)
         * [Android中ProGuard配置和总结](6-Other/Gradle/Android中ProGuard配置和总结.md)
         * [gradle使用笔记](6-Other/Gradle/gradle使用笔记.md)
-        * [Gradle学习地址](6-Other/Gradle/Gradle学习地址.md)
         * [Nexus私服搭建](6-Other/Gradle/Nexus私服搭建.md)
         * [编译提速最佳实践](6-Other/Gradle/编译提速最佳实践.md)
 * [7-设计模式与架构](7-设计模式与架构.md)
